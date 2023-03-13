@@ -1,2 +1,2 @@
-LOCAL
+LOCALE
 quelques lignes
